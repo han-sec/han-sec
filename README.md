@@ -25,3 +25,7 @@ This repository will be regularly updated as I participate in new contests and e
 | 2024 Oct   | [**Stakelink**](https://codehawks.cyfrin.io/c/2024-09-stakelink)        | Codehawks    |         | 0            | $0            | –         |
 | 2024 Aug   | [**Uniswap V4**](https://cantina.xyz/competitions/e2cf6906-ec8b-4c78-a585-74ac90615659) | Cantina      |         | 0            | $0            | –         |
 | 2024 Aug   | [**Tadle Project**](https://codehawks.cyfrin.io/c/2024-08-tadle)        | Codehawks    |         | 3H, 2L       | $18.37        | 85        |
+
+## 📝 Technical Write-ups
+
+* [How Flash Loans Work on Solana](https://x.com/4lifemen/status/2029190663397621829)
